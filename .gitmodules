@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Sin4Brang/SportsNewsAnalysis.git
